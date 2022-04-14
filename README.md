@@ -1,2 +1,2 @@
 # springmvc-tutorial
-in this repository, l'll atart a project to shuow how to build a Spring MVC frame.
+in this repository, l'll start a project to show how to build a Spring MVC frame.
